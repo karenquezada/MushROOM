@@ -1,0 +1,28 @@
+.pio/build/denky32/lib9eb/FastLED/fl/transform.cpp.o: \
+ .pio/libdeps/denky32/FastLED/src/fl/transform.cpp \
+ .pio/libdeps/denky32/FastLED/src/fl/lut.h \
+ .pio/libdeps/denky32/FastLED/src/fl/allocator.h \
+ .pio/libdeps/denky32/FastLED/src/fl/inplacenew.h \
+ .pio/libdeps/denky32/FastLED/src/fl/type_traits.h \
+ .pio/libdeps/denky32/FastLED/src/fl/namespace.h \
+ .pio/libdeps/denky32/FastLED/src/fl/unused.h \
+ .pio/libdeps/denky32/FastLED/src/fl/force_inline.h \
+ .pio/libdeps/denky32/FastLED/src/fl/ptr.h \
+ .pio/libdeps/denky32/FastLED/src/fl/scoped_ptr.h \
+ .pio/libdeps/denky32/FastLED/src/fl/deprecated.h \
+ .pio/libdeps/denky32/FastLED/src/fl/template_magic.h \
+ .pio/libdeps/denky32/FastLED/src/fl/geometry.h \
+ .pio/libdeps/denky32/FastLED/src/fl/math.h \
+ .pio/libdeps/denky32/FastLED/src/fl/clamp.h \
+ .pio/libdeps/denky32/FastLED/src/fl/map_range.h \
+ .pio/libdeps/denky32/FastLED/src/fl/math_macros.h \
+ .pio/libdeps/denky32/FastLED/src/fl/transform.h \
+ .pio/libdeps/denky32/FastLED/src/fl/xymap.h \
+ .pio/libdeps/denky32/FastLED/src/crgb.h \
+ .pio/libdeps/denky32/FastLED/src/chsv.h \
+ .pio/libdeps/denky32/FastLED/src/color.h \
+ .pio/libdeps/denky32/FastLED/src/lib8tion/types.h \
+ .pio/libdeps/denky32/FastLED/src/fl/xmap.h \
+ .pio/libdeps/denky32/FastLED/src/lib8tion/intmap.h \
+ .pio/libdeps/denky32/FastLED/src/lib8tion/lib8static.h \
+ .pio/libdeps/denky32/FastLED/src/lib8tion/trig8.h
