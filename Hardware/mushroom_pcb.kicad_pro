@@ -195,6 +195,7 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.5,
         1.0
       ],
@@ -665,7 +666,7 @@
         "uuid": "33936135-9eb3-4840-95f6-587f48293183"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J3,J5-6,J10",
     "variants": []
   },
   "sheets": [
