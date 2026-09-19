@@ -12393,7 +12393,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8a01b98c-97df-4a8f-b4ee-5c7336c41a59")
 		(property "Reference" "L1"
 			(at 168.91 35.56 90)
